@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Adam-Afrith</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" width="200" src="https://cdn.dribbble.com/users/3033627/screenshots/11067184/media/9df0d61f83b022e982cf47329423836c.gif" alt="" />
+<img align="right" width="400" src="https://cdn.dribbble.com/users/3033627/screenshots/11067184/media/9df0d61f83b022e982cf47329423836c.gif" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-afrith&label=Profile%20views&color=0e75b6&style=flat" alt="adam-afrith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adam-afrith" alt="adam-afrith" /></a> </p>
+
 
 - 🌱 I’m currently learning **React**
 
