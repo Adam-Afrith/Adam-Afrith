@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adam-afrith&label=Profile%20views&color=0e75b6&style=flat" alt="adam-afrith" /> </p>
 
-
-
-- 🌱 I’m currently learning **React**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed afrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed afrith" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-afrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed afrith" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
